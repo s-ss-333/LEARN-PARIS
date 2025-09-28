@@ -8,3 +8,10 @@ body {
     background: black;
     color: white;
 }
+
+a {
+    background-color: white;
+    padding: 5px;
+    text-decoration: none;
+    color: black;
+}
